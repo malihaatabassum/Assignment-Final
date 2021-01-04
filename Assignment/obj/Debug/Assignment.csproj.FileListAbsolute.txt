@@ -1,0 +1,5 @@
+C:\Users\Mehreen\Documents\c#\1st\Final Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\Mehreen\Documents\c#\1st\Final Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Mehreen\Documents\c#\1st\Final Assignment\Assignment\obj\Debug\Assignment.view.Allbooks.resources
+C:\Users\Mehreen\Documents\c#\1st\Final Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\Mehreen\Documents\c#\1st\Final Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
